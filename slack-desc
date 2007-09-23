@@ -1,0 +1,12 @@
+libmpcdec: libmpcdec (A library for playing Musepack files)
+libmpcdec:
+libmpcdec: Libmpcdec is used for playing Musepack files. Musepack is an audio
+libmpcdec: compression format with a strong emphasis on high quality. It's
+libmpcdec: not lossless, but it is designed for transparency, so that you
+libmpcdec: won't be able to hear differences between the original wave file
+libmpcdec: and the much smaller MPC file. It is based on the MPEG-1
+libmpcdec: Layer-2/MP2 algorithms, but since 1997 it has rapidly developed
+libmpcdec: and vastly improved and is now at an advanced stage in which it
+libmpcdec: contains heavily optimized and patentless code.
+libmpcdec:
+libmpcdec: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
